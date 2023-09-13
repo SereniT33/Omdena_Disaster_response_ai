@@ -11,6 +11,7 @@ This section follows a 6 step framework for approaching ML projects at https://g
 
 1. Problem Definition
    - We want to **classify** images (i.e. drones, sattelite) into damaged and not damaged.
+   - Responders need to **identify and assess** damaged areas using aerial imagery to prioritize response efforts, allocate resources, and plan for recovery. 
 2. Data
    - What data do we have? (Structured, unstructured; static, streaming)
 3. Evaluation
